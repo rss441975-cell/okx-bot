@@ -1,0 +1,10 @@
+✅ 新登录令牌
+新令牌： new-login-token-2024
+
+登录地址：  
+常用操作：
+
+截屏：xb run --browser default snapshot -i
+打开网页：xb run --browser default open https://xxx.com
+等待加载：xb run --browser default wait --load networkidle
+要我帮您截个图吗？
